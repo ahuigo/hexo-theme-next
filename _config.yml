@@ -545,7 +545,7 @@ needmoreshare2:
     enable: true
     options:
       iconStyle: box
-      boxForm: vertical
+      boxForm: horizontal
       position: bottomCenter
       networks: Weibo,Wechat,Douban,QQZone,Twitter,Facebook
   float:
